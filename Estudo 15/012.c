@@ -26,6 +26,6 @@ int main () {
     }
     printf ("novo salario: %.2lf\n", salario);
     printf ("Reajuste ganho: %.2lf\n", salario - x);
-    printf ("Em percentual: %d %%", y);
+    printf ("Em percentual: %d %%\n", y);
     return 0;
     }
